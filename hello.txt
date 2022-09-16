@@ -8,3 +8,6 @@ hello third
 hello nihao
 
 hello beijing master test
+
+hello beijing hot-fix  
+
