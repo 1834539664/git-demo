@@ -7,7 +7,4 @@ hello third
 
 hello nihao
 
-hello beijing 
-
-
-
+hello beijing master test
